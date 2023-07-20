@@ -1,0 +1,5 @@
+print("Hello I am Dontaye Rutherford ")
+print("I am 22 years old")
+print("I was born on July 7,1997 in Singapore")
+print("I moved to the United States when I was 10 years old")
+print("My favourite things to do are to play Video Games,Workout and Listening to music") 
